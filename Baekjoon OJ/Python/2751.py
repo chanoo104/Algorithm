@@ -1,6 +1,3 @@
-import sys
-input = sys.stdin.readline
-print = sys.stdout.write
 N = int(input())
 nums = []
 for _ in range(N):
